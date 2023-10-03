@@ -1,2 +1,2 @@
-/usr/bin/ar qc libIncludes.a CMakeFiles/Includes.dir/include.cpp.o
-/usr/bin/ranlib libIncludes.a
+"D:\Program Files\mingw64\bin\ar.exe" qc libIncludes.a CMakeFiles/Includes.dir/include.cpp.obj
+"D:\Program Files\mingw64\bin\ranlib.exe" libIncludes.a

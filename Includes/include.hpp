@@ -5,11 +5,21 @@
 #include <iostream>
 #include <sstream>
 
-#include <BinaryTree.hpp>
 
-#include <string_zwh.hpp>
+//Apps
+
 #include <collection_zwh.hpp>
+#include <Stacks&Queues.hpp>
+#include <string_zwh.hpp>
+
+
+//Classes
 #include <BankAccount.hpp>
+#include <BinaryTree.hpp>
+#include <linearList.hpp>
+#include <maze.hpp>
+#include <myQueue.hpp>
+#include <myStack.hpp>
 
 
 

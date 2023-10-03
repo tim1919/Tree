@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZWH_App.dir/collection_zwh.cpp.o"
-  "CMakeFiles/ZWH_App.dir/collection_zwh.cpp.o.d"
-  "CMakeFiles/ZWH_App.dir/string_zwh.cpp.o"
-  "CMakeFiles/ZWH_App.dir/string_zwh.cpp.o.d"
+  "CMakeFiles/ZWH_App.dir/Stacks&Queues.cpp.obj"
+  "CMakeFiles/ZWH_App.dir/Stacks&Queues.cpp.obj.d"
+  "CMakeFiles/ZWH_App.dir/collection_zwh.cpp.obj"
+  "CMakeFiles/ZWH_App.dir/collection_zwh.cpp.obj.d"
+  "CMakeFiles/ZWH_App.dir/string_zwh.cpp.obj"
+  "CMakeFiles/ZWH_App.dir/string_zwh.cpp.obj.d"
   "libZWH_App.a"
   "libZWH_App.pdb"
 )

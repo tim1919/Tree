@@ -63,15 +63,19 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/zwh/myStudies/C++/Chapter_4_Tree/Includes/."
+					"path" : "D:/ZWH/Data Structure/Tree/Includes/."
 				},
 				{
 					"backtrace" : 2,
-					"path" : "/home/zwh/myStudies/C++/Chapter_4_Tree/Libraries/ZWH_App/."
+					"path" : "D:/ZWH/Data Structure/Tree/Libraries/ZWH_App/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/ZWH/Data Structure/Tree/Libraries/ZWH_App/../ZWH_Class"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/home/zwh/myStudies/C++/Chapter_4_Tree/Libraries/ZWH_Class/."
+					"path" : "D:/ZWH/Data Structure/Tree/Libraries/ZWH_Class/."
 				}
 			],
 			"language" : "CXX",

@@ -272,11 +272,11 @@ void LinkBinaryTree<ValueType>::postOrder_seq(Node* T, const int& function)//后
     }
 }
 
-template <typename ValueType>
-void LinkBinaryTree<ValueType>::tmp(Node* T, const int& function)//后序遍历（顺序）（法二）（容易理解）
-{
-    while (1)
-    {
-        if ()
-    }
-}
+// template <typename ValueType>
+// void LinkBinaryTree<ValueType>::tmp(Node* T, const int& function)//后序遍历（顺序）（法二）（容易理解）
+// {
+//     while (1)
+//     {
+//         if ()
+//     }
+// }

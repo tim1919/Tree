@@ -1,6 +1,6 @@
 Includes/CMakeFiles/Includes.dir/include.cpp.obj: \
- D:\ZWH\Data\ Structure\Chapter_4_Tree\Includes\include.cpp \
- D:/ZWH/Data\ Structure/Chapter_4_Tree/Includes/include.hpp \
+ D:\ZWH\Data\ Structure\Tree\Includes\include.cpp \
+ D:/ZWH/Data\ Structure/Tree/Includes/include.hpp \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -129,10 +129,7 @@ Includes/CMakeFiles/Includes.dir/include.cpp.obj: \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/sstream \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/sstream.tcc \
- D:/ZWH/Data\ Structure/Chapter_4_Tree/Libraries/ZWH_Class/BinaryTree.hpp \
- D:/ZWH/Data\ Structure/Chapter_4_Tree/Libraries/ZWH_Class/BinaryTree.cpp \
- D:/ZWH/Data\ Structure/Chapter_4_Tree/Libraries/ZWH_App/string_zwh.hpp \
- D:/ZWH/Data\ Structure/Chapter_4_Tree/Libraries/ZWH_App/collection_zwh.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_App/collection_zwh.hpp \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
@@ -165,4 +162,17 @@ Includes/CMakeFiles/Includes.dir/include.cpp.obj: \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_list.h \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/allocated_ptr.h \
  D:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/list.tcc \
- D:/ZWH/Data\ Structure/Chapter_4_Tree/Libraries/ZWH_Class/BankAccount.hpp
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_App/Stacks&Queues.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/myStack.hpp \
+ D:/Program\ Files/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/Program\ Files/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/myStack.cpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_App/string_zwh.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/BankAccount.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/BinaryTree.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/BinaryTree.cpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/linearList.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/linearList.cpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/maze.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/myQueue.hpp \
+ D:/ZWH/Data\ Structure/Tree/Libraries/ZWH_Class/myQueue.cpp

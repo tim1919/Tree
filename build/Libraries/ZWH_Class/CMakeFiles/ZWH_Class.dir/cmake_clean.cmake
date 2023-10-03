@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZWH_Class.dir/BankAccount.cpp.o"
-  "CMakeFiles/ZWH_Class.dir/BankAccount.cpp.o.d"
-  "CMakeFiles/ZWH_Class.dir/RandomBag.cpp.o"
-  "CMakeFiles/ZWH_Class.dir/RandomBag.cpp.o.d"
+  "CMakeFiles/ZWH_Class.dir/BankAccount.cpp.obj"
+  "CMakeFiles/ZWH_Class.dir/BankAccount.cpp.obj.d"
+  "CMakeFiles/ZWH_Class.dir/RandomBag.cpp.obj"
+  "CMakeFiles/ZWH_Class.dir/RandomBag.cpp.obj.d"
+  "CMakeFiles/ZWH_Class.dir/maze.cpp.obj"
+  "CMakeFiles/ZWH_Class.dir/maze.cpp.obj.d"
   "libZWH_Class.a"
   "libZWH_Class.pdb"
 )
