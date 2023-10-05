@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/ZWH/Data Structure/Tree/main.cpp" "CMakeFiles/untitled.dir/main.cpp.obj" "gcc" "CMakeFiles/untitled.dir/main.cpp.obj.d"
+  "/home/zwh/myStudies/C++/Tree/main.cpp" "CMakeFiles/untitled.dir/main.cpp.o" "gcc" "CMakeFiles/untitled.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "D:/ZWH/Data Structure/Tree/build/Includes/CMakeFiles/Includes.dir/DependInfo.cmake"
-  "D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_App/CMakeFiles/ZWH_App.dir/DependInfo.cmake"
-  "D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_Class/CMakeFiles/ZWH_Class.dir/DependInfo.cmake"
+  "/home/zwh/myStudies/C++/Tree/build/Includes/CMakeFiles/Includes.dir/DependInfo.cmake"
+  "/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_App/CMakeFiles/ZWH_App.dir/DependInfo.cmake"
+  "/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_Class/CMakeFiles/ZWH_Class.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

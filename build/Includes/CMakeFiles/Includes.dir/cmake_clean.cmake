@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Includes.dir/include.cpp.obj"
-  "CMakeFiles/Includes.dir/include.cpp.obj.d"
+  "CMakeFiles/Includes.dir/include.cpp.o"
+  "CMakeFiles/Includes.dir/include.cpp.o.d"
   "libIncludes.a"
   "libIncludes.pdb"
 )

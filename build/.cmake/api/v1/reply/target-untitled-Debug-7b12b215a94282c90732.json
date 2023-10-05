@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "untitled.exe"
-		},
-		{
-			"path" : "untitled.pdb"
+			"path" : "untitled"
 		}
 	],
 	"backtrace" : 1,
@@ -52,19 +49,19 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "D:/ZWH/Data Structure/Tree/Includes/."
+					"path" : "/home/zwh/myStudies/C++/Tree/Includes/."
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ZWH/Data Structure/Tree/Libraries/ZWH_App/."
+					"path" : "/home/zwh/myStudies/C++/Tree/Libraries/ZWH_App/."
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ZWH/Data Structure/Tree/Libraries/ZWH_App/../ZWH_Class"
+					"path" : "/home/zwh/myStudies/C++/Tree/Libraries/ZWH_App/../ZWH_Class"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ZWH/Data Structure/Tree/Libraries/ZWH_Class/."
+					"path" : "/home/zwh/myStudies/C++/Tree/Libraries/ZWH_Class/."
 				}
 			],
 			"language" : "CXX",
@@ -104,26 +101,22 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "Includes\\libIncludes.a",
+				"fragment" : "Includes/libIncludes.a",
 				"role" : "libraries"
 			},
 			{
-				"fragment" : "Libraries\\ZWH_App\\libZWH_App.a",
+				"fragment" : "Libraries/ZWH_App/libZWH_App.a",
 				"role" : "libraries"
 			},
 			{
-				"fragment" : "Libraries\\ZWH_Class\\libZWH_Class.a",
-				"role" : "libraries"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"fragment" : "Libraries/ZWH_Class/libZWH_Class.a",
 				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "untitled",
-	"nameOnDisk" : "untitled.exe",
+	"nameOnDisk" : "untitled",
 	"paths" : 
 	{
 		"build" : ".",

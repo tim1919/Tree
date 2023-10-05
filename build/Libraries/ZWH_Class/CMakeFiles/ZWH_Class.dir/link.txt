@@ -1,2 +1,2 @@
-"D:\Program Files\mingw64\bin\ar.exe" qc libZWH_Class.a CMakeFiles/ZWH_Class.dir/RandomBag.cpp.obj CMakeFiles/ZWH_Class.dir/BankAccount.cpp.obj CMakeFiles/ZWH_Class.dir/maze.cpp.obj
-"D:\Program Files\mingw64\bin\ranlib.exe" libZWH_Class.a
+/usr/bin/ar qc libZWH_Class.a CMakeFiles/ZWH_Class.dir/RandomBag.cpp.o CMakeFiles/ZWH_Class.dir/BankAccount.cpp.o CMakeFiles/ZWH_Class.dir/maze.cpp.o
+/usr/bin/ranlib libZWH_Class.a

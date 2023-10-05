@@ -1,1 +1,0 @@
- Includes/libIncludes.a Libraries/ZWH_App/libZWH_App.a Libraries/ZWH_Class/libZWH_Class.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

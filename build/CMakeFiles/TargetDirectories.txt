@@ -1,12 +1,12 @@
-D:/ZWH/Data Structure/Tree/build/CMakeFiles/untitled.dir
-D:/ZWH/Data Structure/Tree/build/CMakeFiles/edit_cache.dir
-D:/ZWH/Data Structure/Tree/build/CMakeFiles/rebuild_cache.dir
-D:/ZWH/Data Structure/Tree/build/Includes/CMakeFiles/Includes.dir
-D:/ZWH/Data Structure/Tree/build/Includes/CMakeFiles/edit_cache.dir
-D:/ZWH/Data Structure/Tree/build/Includes/CMakeFiles/rebuild_cache.dir
-D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_App/CMakeFiles/ZWH_App.dir
-D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_App/CMakeFiles/edit_cache.dir
-D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_App/CMakeFiles/rebuild_cache.dir
-D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_Class/CMakeFiles/ZWH_Class.dir
-D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_Class/CMakeFiles/edit_cache.dir
-D:/ZWH/Data Structure/Tree/build/Libraries/ZWH_Class/CMakeFiles/rebuild_cache.dir
+/home/zwh/myStudies/C++/Tree/build/CMakeFiles/untitled.dir
+/home/zwh/myStudies/C++/Tree/build/CMakeFiles/edit_cache.dir
+/home/zwh/myStudies/C++/Tree/build/CMakeFiles/rebuild_cache.dir
+/home/zwh/myStudies/C++/Tree/build/Includes/CMakeFiles/Includes.dir
+/home/zwh/myStudies/C++/Tree/build/Includes/CMakeFiles/edit_cache.dir
+/home/zwh/myStudies/C++/Tree/build/Includes/CMakeFiles/rebuild_cache.dir
+/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_App/CMakeFiles/ZWH_App.dir
+/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_App/CMakeFiles/edit_cache.dir
+/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_App/CMakeFiles/rebuild_cache.dir
+/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_Class/CMakeFiles/ZWH_Class.dir
+/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_Class/CMakeFiles/edit_cache.dir
+/home/zwh/myStudies/C++/Tree/build/Libraries/ZWH_Class/CMakeFiles/rebuild_cache.dir
